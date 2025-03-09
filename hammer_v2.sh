@@ -1,3 +1,4 @@
+#!/bin/bash
 #sudo -s
 #apt install update
 #apt install upgrade
